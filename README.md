@@ -1,4 +1,4 @@
-# DependencyInversion
+# Dependency Inversion
 
 
 - Las clases de alto nivel no deberían depender de las clases de bajo nivel. Ambas deberían depender de las abstracciones.
